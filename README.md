@@ -6,4 +6,7 @@ escaped with php's ```escapeshellcmd```.
 
 If you would like to goto a specific directory you can change the url. The path is loaded from the ```path``` key in the query string.
 
+### Output
+Selecting a folder allows you to navigate the system. You can also preview some files by clicking on them.
 
+![Program Output](Output.png)
