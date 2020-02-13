@@ -9,4 +9,4 @@ If you would like to goto a specific directory you can change the url. The path 
 ### Output
 Selecting a folder allows you to navigate the system. You can also preview some files by clicking on them.
 
-![Program Output](Output.png)
+![Program Output](/Output.PNG)
